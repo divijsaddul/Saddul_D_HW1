@@ -9,8 +9,8 @@
  <p> hello my name is divij saddul and i am twenty years old. i come from a small island in the indian ocean called mauritius.
     since childhood,i was always fascinated by photography and content creation. during my free time i do freelance video editing.
     
-      </p>
-
+      </p> hello my name is shriyaa mogun, am from mauritius found in the indian ocean. my hobbies are sports, music and photograpy. most of all i am really looking forward for this interacttive media class as i believe that we have many oportunies with it and the tech world has always fascinated me.
+ 
 </body>
 
 
